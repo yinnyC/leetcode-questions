@@ -20,7 +20,7 @@
 
 - [x] [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)
 - [x] [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
----
+- [x] [Min Stack](https://leetcode.com/problems/min-stack/)
 
 ## Binary
 
