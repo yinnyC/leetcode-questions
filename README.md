@@ -105,12 +105,13 @@
 - [ ] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 - [ ] [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
 - [ ] [Encode and Decode Strings (Leetcode Premium)](https://leetcode.com/problems/encode-and-decode-strings/)
-
+- [x] [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 - [x] [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
----
 
 ## Tree
+
 - [x] [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)
+- [x] [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
 - [ ] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 - [ ] [Same Tree](https://leetcode.com/problems/same-tree/)
 - [ ] [Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
