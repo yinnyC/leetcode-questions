@@ -55,6 +55,7 @@
 ## Graph
 
 - [x] [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)
+- [x] [Parallel Courses](https://leetcode.com/problems/parallel-courses/)
 - [ ] [Clone Graph](https://leetcode.com/problems/clone-graph/)
 - [ ] [Course Schedule](https://leetcode.com/problems/course-schedule/)
 - [ ] [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
